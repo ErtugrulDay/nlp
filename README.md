@@ -4,3 +4,4 @@ It contains the notes I have compiled from the trainings I have received in orde
 <br> <br> Week 5: Text Representation and Classification with BoW: Using a set of news texts, texts are represented with a BoW model and a classifier (e.g. Logistic Regression) is trained with these representations.
 <br> <br> Week 6: Word Weight Calculation with TF-IDF: By calculating word frequencies and inverse document frequencies (TF-IDF) over a small text collection, the weight of each word is determined.
 <br> <br> Week 7: Word Representations with Word2Vec: By training the Word2Vec model on a text collection, similarities and relationships between words are analysed. For example, discovering the relationship between ‘king’ and ‘queen’.
+<br> <br> Week 8: Text Generation with Markov Chain: As a simple language modelling application, new sentences can be generated from a collection of texts using a Markov Chain.
