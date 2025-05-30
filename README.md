@@ -7,3 +7,4 @@ It contains the notes I have compiled from the trainings I have received in orde
 <br> <br> Week 8: Text Generation with Markov Chain: As a simple language modelling application, new sentences can be generated from a collection of texts using a Markov Chain.
 <br> <br> Week 9: Sentiment Analysis Application: Sentiment analysis is performed from texts such as Yelp reviews or Twitter data. Each comment is categorised as positive or negative.
 <br> <br> Week 10: Topic Discovery with Clustering: Using a group of news headlines, K-means clustering algorithm is used to group the news according to similar topics.
+<br> <br> Week 11: Disambiguation using Word Sense Disambiguation (WSD): A WSD algorithm is used to contextually analyse both ‘riverbank’ and “bank” meanings of the word ‘bank’.
